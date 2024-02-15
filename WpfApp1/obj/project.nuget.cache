@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPsT3SKnRk/JOpzVjpFQzp1TVVfylHsHzh50YJuk3dXwfZq50bJQ42PC9Sh/gost0i4GCluYAZLKejkhFKsqbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pawel\\OneDrive - Politechnika Śląska\\Dokumenty\\STUDIA\\Programowanie\\infa\\Quiz creator\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
